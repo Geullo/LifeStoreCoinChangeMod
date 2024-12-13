@@ -1,0 +1,14 @@
+{
+   "station.move":{
+      "sounds":[{
+         "name":"coinchange:station_move"
+      }]
+   },
+   "mainmenu":{
+   "sounds":[{
+      "name":"coinchange:main_menu",
+      "volume": 0.3,
+      "stream": true
+   }]
+   }
+}
